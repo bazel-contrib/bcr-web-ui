@@ -23,7 +23,7 @@
     "execa": "^8.0.0",
     "fuse.js": "^7.0.0",
     "gitlog": "^4.0.4",
-    "next": "14.0.1",
+    "next": "14.2.24",
     "p-memoize": "^7.1.1",
     "react": "18.2.0",
     "react-dom": "18.2.0"
@@ -34,7 +34,7 @@
     "@types/react-dom": "18.2.14",
     "autoprefixer": "^10.4.7",
     "eslint": "8.53.0",
-    "eslint-config-next": "14.0.1",
+    "eslint-config-next": "14.2.24",
     "postcss": "^8.4.14",
     "prettier": "^3.0.0",
     "tailwindcss": "^3.1.3",
